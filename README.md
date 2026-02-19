@@ -11,7 +11,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -21,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
@@ -29,6 +27,12 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat&logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2.svg?style=flat&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
@@ -36,14 +40,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
-
-
-![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat&logo=fastapi&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2.svg?style=flat&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 
 
 
