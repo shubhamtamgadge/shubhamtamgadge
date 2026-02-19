@@ -15,6 +15,9 @@
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
 
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
+
+
 
 
 # 📊 GitHub Stats:
