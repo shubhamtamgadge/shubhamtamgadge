@@ -1,4 +1,4 @@
-# 💫 About Me:
+#   Hi, i'm Shubham ✨
 💻 Aspiring Java Full Stack Developer passionate about building scalable and efficient web applications.<br><br>🚀 Skilled in Java, Spring Boot, MySQL, and modern frontend technologies.<br><br>🌱 Currently learning advanced backend architecture and system design.<br><br>🎯 Focused on writing clean, maintainable, and production-ready code.
 
 
